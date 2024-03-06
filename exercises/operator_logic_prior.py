@@ -33,10 +33,3 @@ while iterator < 4:
 
     iterator += 1
 
-""" 
-if m or not l and n:
-    print("n is type: ", type(n), "and its value is: ", n)
-lista = [12, "tres", True, 2.23]
-
-for l in lista:
-    print(l) """
