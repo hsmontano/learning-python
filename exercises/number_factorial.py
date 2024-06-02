@@ -11,4 +11,4 @@ while i <= n:
 print(facts)
 
 a=1245
-print(a.is_integer())
+print(a.as_integer_ratio())
